@@ -1,3 +1,4 @@
 **Learning_Git**
 
-#### Learning Git With Elzero
+Learning Git With Elzero
+## Notes
